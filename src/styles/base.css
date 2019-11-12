@@ -1,0 +1,31 @@
+.app {
+  text-align: center;
+}
+
+.background-layer {
+  background-image: url('../images/sakinaw-aerial.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.opacity-layer {
+  height: 100%;
+  width: 100%;
+  flex: 1 auto;
+  background: rgba(0, 0, 0, 0.3);
+}
+
+header {
+
+}
+
+footer {
+
+}

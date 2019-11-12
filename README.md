@@ -1,11 +1,12 @@
 ## React Sakinaw
 
-In the project you will find a single page site for the Lee House
+In the project you will find a single page site for Sakinaw
 
 ### Features
 
 * Call to Open Weather API to return current day's weather
 * TODO - Add more features
+* TODO - Brainstorm with James
 
 ## Create React App Boiler Plate Below
 
